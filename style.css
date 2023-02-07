@@ -64,4 +64,9 @@ a{
         width : 50%;
         font-size : 50%;
     }
+    main{
+    width: 50%;
+    margin: 20px auto;
+    border: solid 1% black;
+}
 }
