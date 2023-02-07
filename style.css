@@ -69,4 +69,7 @@ a{
         margin: 20px auto;
         border: solid 1% black;
     }
+    img{
+        width: 50%;
+    }
 }
