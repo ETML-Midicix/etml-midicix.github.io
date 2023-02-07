@@ -66,10 +66,14 @@ a{
     }
     main{
         width: 50%;
-        margin: 20px auto;
+        margin: 25% auto;
         border: solid 1% black;
     }
     img{
         width: 50%;
+    }
+    .picturesMiddle{
+        width: 50%;
+        padding-right: 50%;
     }
 }
