@@ -15,13 +15,16 @@
 
 
 ## HTML
-<img src="https://github.com/ETML-Midicix/POO_SpaceInvaders/assets/119678382/edbe39ce-36df-469b-98e5-cc832d153142" alt="logo c# by FreePik" width="32"> [**Accueil**](https://etml-midicix.github.io)
+<img src="https://github.com/ETML-Midicix/etml-midicix.github.io/assets/119678382/a736a30f-de4e-47da-8423-570129c5d471" alt="logo html by FreePik" width="32"> [**Accueil**](https://etml-midicix.github.io)
+<img src="https://github.com/ETML-Midicix/etml-midicix.github.io/assets/119678382/6af59340-5b5a-4d4f-872f-bb25c58d7353" alt="logo html by FreePik" width="32"> [**Code Accueil**](index.html)
 
 
 ---
 
+
 ## JS
-<img src="https://github.com/ETML-Midicix/POO_SpaceInvaders/assets/119678382/edbe39ce-36df-469b-98e5-cc832d153142" alt="logo c# by FreePik" width="32"> [**Convertisseur OTAN**](https://etml-midicix.github.io/src/html/otan.html)
+<img src="https://github.com/ETML-Midicix/etml-midicix.github.io/assets/119678382/96879ef7-603b-4486-a44b-af15dd255af4" alt="logo c# by FreePik" width="32"> [**Convertisseur OTAN**](https://etml-midicix.github.io/src/html/otan.html)
+<img src="https://github.com/ETML-Midicix/etml-midicix.github.io/assets/119678382/507a0a90-a070-41d7-ab94-a895ac365655" alt="logo c# by FreePik" width="32"> [**Code Convertisseur OTAN**](src/js/otan.js)
 
 
 ---
