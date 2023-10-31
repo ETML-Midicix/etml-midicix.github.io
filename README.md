@@ -8,9 +8,9 @@
 ---
 
 ## DOCUMENTS
-<img src="https://github.com/ETML-Midicix/POO_SpaceInvaders/assets/119678382/c4dc7cd7-aefc-4fc3-9ac2-2301f459c3ee" alt="logo cahier des charges by FreePik" width="32"> [**Explications**](EnquêtesPo.pdf)
+<img src="https://github.com/ETML-Midicix/POO_SpaceInvaders/assets/119678382/c4dc7cd7-aefc-4fc3-9ac2-2301f459c3ee" alt="logo cahier des charges by FreePik" width="32"> [**Explications**](EnquetesPo.pdf)
 
-<img src="https://github.com/ETML-Midicix/POO_SpaceInvaders/assets/119678382/c508fb62-1dde-4908-9a85-40769ff9f4bd" alt="logo rapport by FreePik" width="32"> [**Explications**](EnquêtesPo.pdf)
+<img src="https://github.com/ETML-Midicix/POO_SpaceInvaders/assets/119678382/c508fb62-1dde-4908-9a85-40769ff9f4bd" alt="logo rapport by FreePik" width="32"> [**Explications**](EnquetesPo.pdf)
 
 ---
 
