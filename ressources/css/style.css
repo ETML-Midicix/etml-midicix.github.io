@@ -34,10 +34,10 @@
 	width: 142px;
 	background-color: #FCDB61;
 }
-@font-face {
-    font-family: 'Military'; /*a name to be used later*/
-    src: url('../../userContent/font/armalite.ttf'); /*URL to font*/
-}
+/*@font-face {
+    font-family: 'Military';
+    src: url('../../userContent/font/armalite.ttf');
+}*/
 #otanPage{
 	background-image: url('../../userContent/pictures/camoBackground.jpg');
 }
@@ -48,16 +48,22 @@
 	color: rgb(0, 73, 144);
 	-webkit-text-stroke: 0.8px white;
 }*/
-#otanPage .img{
-	text-align: center;
+#otanPage img{
+	display: block;
+	margin: auto;
 	margin-top: 50px;
 }
-.tarea{
+#otanPage .tarea{
+	width: 920px;
 	display: grid;
+	margin: auto 0;
+	grid-template-columns: auto auto;
+	justify-items: center;
 }
-.tarea textarea{
+#otanPage .tarea textarea{
 	resize: none;
-	height: 250px;
+	height: 350px;
+	width: 450px;
 	background-color: grey;
 	border: 1px white solid;
 	color: white;
@@ -66,9 +72,20 @@
 	font-variant: small-caps;
 	cursor: default;
 }
+#otanPage button, #otanPage span{
+	width: 150px;
+	margin: auto;
+}
+#otanPage span{
+	text-align: center;
+}
 #otanPage button{
 	border-radius: 20px;
 	border: none;
-	width: 150px;
+}
+#otanPage .container{
+	background-color: #8d9598;
+	width: 920px;
+	height: 400px;
 	margin: auto;
 }

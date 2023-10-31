@@ -120,4 +120,9 @@ function Copy(inputEntry){
     navigator.clipboard.writeText(input);
     
     document.getElementById(`copied${inputEntry}`).innerText = "Copié !";
+    setTimeout(ResetCopy, 1000, inputEntry);
+}
+
+function ResetCopy(inputEntry){
+    document.getElementById(`copied${inputEntry}`).innerText = "";
 }
