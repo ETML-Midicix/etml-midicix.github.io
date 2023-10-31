@@ -1,8 +1,4 @@
 ---
-
-# etml-midicix.github.io
-
----
 <div align="center">
   <h1>Enquêtes</h1>
   by <a href="https://github.com/ETML-Midicix">ETML-Midicix</a> and <a href="https://github.com/Evin06">Evin06</a>
