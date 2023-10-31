@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>OTAN convertisseur</title>
+    <link rel="stylesheet" href="../../ressources/css/style.css">
+    <script type="text/javascript" src="../js/otan.js"></script>
+    <!--
+        Prénom(s)   : Aloïs, Evin
+        Nom(s)      : Menoud, Paramanathan
+        Date        : 26.09.2023
+        Description : XXX
+    -->
+</head>
+<body>
+    <section class="tarea">
+        <div>
+            <textarea id="input" oninput="ConvertOTAN(0);"></textarea>
+            <textarea id="input2" oninput="ConvertOTAN(1);"></textarea>
+        </div>
+        <div class="copiedArea">
+            <button onclick="Copy()">Copier</button>
+            <span id="copied"></span>
+        </div>
+    </section>
+</body>
+</html>

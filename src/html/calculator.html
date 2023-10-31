@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Accueil</title>
+    <link rel="stylesheet" href="../../ressources/css/style.css">
+    <script type="text/javascript" src="../js/calculator.js"></script>
+    <!--
+        Prénom(s)   : Aloïs, Evin
+        Nom(s)      : Menoud, Paramanathan
+        Date        : 26.09.2023
+        Description : XXX
+    -->
+</head>
+<body class="calculator" onkeypress="CheckValue(event)">
+    <header>
+        <h1 id="title">
+            Calculatrice
+        </h1>
+    </header>
+    <section>
+		<div id="display">
+			<input id="value" disabled>
+			<button onclick="Operation('reset')" id="reset">C</button>
+		</div>
+        <div id="numPad">
+			<button onclick="Add(1)">1</button>
+			<button onclick="Add(2)">2</button>
+			<button onclick="Add(3)">3</button>
+			
+			<button onclick="Operation('plus')" id="plus">+</button>
+			
+			<button onclick="Add(4)">4</button>
+			<button onclick="Add(5)">5</button>
+			<button onclick="Add(6)">6</button>
+			
+			<button onclick="Operation('minus')" id="minus">-</button>
+			
+			<button onclick="Add(7)">7</button>
+			<button onclick="Add(8)">8</button>
+			<button onclick="Add(9)">9</button>
+			
+			<button onclick="Operation('power')" id="power">x</button>
+			
+			<button onclick="Add('comma')">.</button>
+			<button onclick="Add(0)">0</button>
+			
+			<button onclick="Operation('equal')" id="equal">=</button>
+            <button onclick="Operation('divide')" id="divide">÷</button>  
+        </div>
+    </section>
+</body>
+</html>
