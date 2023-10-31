@@ -1,5 +1,6 @@
 ---
 <div align="center">
+  <img src="https://github.com/ETML-Midicix/etml-midicix.github.io/assets/119678382/d7b743f6-58bf-4dc9-96eb-11835e5a294b" alt="Illustration enquête by Freepik">
   <h1>Enquêtes</h1>
   by <a href="https://github.com/ETML-Midicix">ETML-Midicix</a> and <a href="https://github.com/Evin06">Evin06</a>
 </div>
